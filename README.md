@@ -15,9 +15,14 @@
 
 ## About the Project
 
-This Project is part of the NAID Mobile App Internship hosted and managed by Sprints concerning `Building an app with ease accessability to PWDs`.
+This Project is part of the NAID Mobile App Internship hosted and managed by Sprints concerning `Building an app with ease accessability to PWDs`. 
+
+> The work in this repo is based on codelab offered in this link (https://kiosk-dot-codelabs-site.appspot.com/codelabs/basic-android-accessibility/index.html?index=..%2F..index#0) it is similar to links offered in the session. 
+
+> I used this codelab as the two offered links in the session doesn't work. in fact this work is super to the second link offered in the sesssion `the counter example`. 
+
 <p align="center">
-  <img src="video.gif" width="300" />
+  <img src="images/video.gif" width="300" />
 </p>
 
 
